@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoughSite1", "MyRoughSite1\MyRoughSite1.csproj", "{C865A578-C9BD-4E56-A80B-2EA255A68428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRoughSite1.Tests", "MyRoughSite1.Tests\MyRoughSite1.Tests.csproj", "{98F9D86D-1AA0-467A-8761-B560CFD96A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C865A578-C9BD-4E56-A80B-2EA255A68428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C865A578-C9BD-4E56-A80B-2EA255A68428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C865A578-C9BD-4E56-A80B-2EA255A68428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C865A578-C9BD-4E56-A80B-2EA255A68428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F9D86D-1AA0-467A-8761-B560CFD96A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F9D86D-1AA0-467A-8761-B560CFD96A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F9D86D-1AA0-467A-8761-B560CFD96A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F9D86D-1AA0-467A-8761-B560CFD96A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

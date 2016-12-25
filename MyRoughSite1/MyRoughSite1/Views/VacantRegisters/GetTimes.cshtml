@@ -1,0 +1,6 @@
+﻿
+@for (var i = 0; i < ViewBag.TimeSpans.Length; i++)
+{
+    var ts = ViewBag.TimeSpans[i];
+    <div class="timeSpan" id="i"> @ts.Hours:@ts.Minutes</div> 
+}

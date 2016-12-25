@@ -1,0 +1,148 @@
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.dll.config
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.pdb
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Antlr3.Runtime.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\EntityFramework.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\EntityFramework.SqlServer.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Google.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Web.Infrastructure.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Newtonsoft.Json.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Owin.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Helpers.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Mvc.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Optimization.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Razor.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Deployment.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Razor.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\WebGrease.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Helpers.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Mvc.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Optimization.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.Razor.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Deployment.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Razor.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Antlr3.Runtime.pdb
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Newtonsoft.Json.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\EntityFramework.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\EntityFramework.SqlServer.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Google.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Helpers.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Mvc.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Optimization.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Razor.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\EntityFramework.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.csprojResolveAssemblyReference.cache
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.dll
+D:\Сети 3 (Web)\Сайт\Тренировка\Сервер\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.pdb
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.dll.config
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\MyRoughSite1.pdb
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Antlr3.Runtime.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\EntityFramework.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\EntityFramework.SqlServer.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Newtonsoft.Json.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Owin.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Helpers.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Mvc.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Optimization.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Razor.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\WebGrease.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Helpers.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Mvc.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Optimization.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.Razor.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Antlr3.Runtime.pdb
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Newtonsoft.Json.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\EntityFramework.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\EntityFramework.SqlServer.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Helpers.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Mvc.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Optimization.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.Razor.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\EntityFramework.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.csprojResolveAssemblyReference.cache
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.dll
+D:\GitHub\Site\MyRoughSite1\MyRoughSite1\obj\Debug\MyRoughSite1.pdb

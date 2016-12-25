@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MyRoughSite1.Models.VacantRegister>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Masseur.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasseurId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.VacantRegisterId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.VacantRegisterId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.VacantRegisterId })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>
