@@ -27,6 +27,11 @@
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
+        <form method="post" action="~/VacantRegisters/GetTimes" id="calendarForm">
+            @CalendarHelper.CreateCalendar(DateTime.Now);
+        </form>
+
+
         @using (Ajax.BeginForm("GetTimes", new AjaxOptions { UpdateTargetId = "timeSpans" }))
         {
 
@@ -77,6 +82,18 @@
         <div>
             @Html.ActionLink("Back to List", "Index")
         </div>
+
+
+    <script>
+        $("calendarForm").submit(function (event) {
+            event.preventDefault();
+
+            var $form = $(this),
+
+                url = $form.attr("action");
+        });
+    </script>
+
 </body>
 </html>
 
